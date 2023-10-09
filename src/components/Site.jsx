@@ -1,9 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 const Site = () => {
     return (
-        <div>Site</div>
-    )
-}
+        <section id="site"></section>
+    );
+};
 
-export default Site
+export default Site;
